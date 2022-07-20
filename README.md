@@ -8,7 +8,7 @@ I am Ayush Gupta, CSE Senior from IIT Dharwad. I love working on challenges and 
 As for my hobbies, I am fond of reading 📘 and playing different sports ⛹️‍♂️ 
 
 ## My Skills ✍️ 
-
+<p float = "left">
 <img width="30" height="25" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg">
 <img width="30" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png">
 <img width = "30" height="25" src ="https://cdn.worldvectorlogo.com/logos/javascript-1.svg">
@@ -19,6 +19,7 @@ As for my hobbies, I am fond of reading 📘 and playing different sports ⛹️
 <img width = "30" height="25" src="https://w7.pngwing.com/pngs/751/3/png-transparent-logo-php-html-others-text-trademark-logo-thumbnail.png">
 <img width="30" height="25" src="https://w7.pngwing.com/pngs/895/275/png-transparent-solidity-ethereum-smart-contract-blockchain-cryptocurrency-blockchain-angle-triangle-logo.png">
 <img width="30" height="25" src="https://spng.subpng.com/20180702/sya/kisspng-mysql-database-encapsulated-postscript-logo-jquery-5b3ad07bba6162.3664155515305811157634.jpg">
+</p>
 
 <br>
 
